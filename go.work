@@ -1,0 +1,11 @@
+go 1.18
+
+use (
+	./example
+	./hello	
+	./randomgreet
+	./greetings
+	./web-service-gin
+	./generics
+	./fuzz	
+)
