@@ -7,5 +7,6 @@ use (
 	./greetings
 	./web-service-gin
 	./generics
-	./fuzz	
+	./fuzz
+	./go-movies-crud	
 )
