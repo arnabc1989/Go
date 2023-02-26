@@ -8,5 +8,6 @@ use (
 	./web-service-gin
 	./generics
 	./fuzz
-	./go-movies-crud	
+	./go-movies-crud
+	./go-bookstore	
 )
