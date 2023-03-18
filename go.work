@@ -10,4 +10,5 @@ use (
 	./fuzz
 	./go-movies-crud
 	./go-bookstore	
+	./go-auth
 )
